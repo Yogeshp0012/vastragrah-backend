@@ -1,0 +1,5 @@
+.fly
+node_modules
+.dockerignore
+Dockerfile
+tests
